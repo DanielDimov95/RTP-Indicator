@@ -21,7 +21,7 @@ const mockData = [
         providerLogo: ProviderLogo,
         thumbnail: StarBurstThumbnail,
         gameRtp: 86.5,
-        srp: 96.5,
+        srp: 94.2,
         rtp: 0,
     },
     {
@@ -29,7 +29,7 @@ const mockData = [
         providerLogo: ProviderLogo,
         thumbnail: StarBurstThumbnail,
         gameRtp: 96.5,
-        srp: 94.5,
+        srp: 90.2,
         rtp: 0,
     },
     {
@@ -37,7 +37,7 @@ const mockData = [
         providerLogo: ProviderLogo,
         thumbnail: StarBurstThumbnail,
         gameRtp: 96.5,
-        srp: 86.5,
+        srp: 95.5,
         rtp: 0,
     },
     {
@@ -61,7 +61,7 @@ const mockData = [
         providerLogo: ProviderLogo,
         thumbnail: StarBurstThumbnail,
         gameRtp: 80.5,
-        srp: 96.5,
+        srp: 85.5,
         rtp: 0,
     },
     {
@@ -85,7 +85,7 @@ const mockData = [
         providerLogo: ProviderLogo,
         thumbnail: StarBurstThumbnail,
         gameRtp: 98.5,
-        srp: 86.5,
+        srp: 97.5,
         rtp: 0,
     }
 ];
